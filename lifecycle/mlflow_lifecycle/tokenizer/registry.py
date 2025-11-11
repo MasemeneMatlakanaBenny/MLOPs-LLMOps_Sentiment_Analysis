@@ -17,7 +17,7 @@ set_mlflow_host()
 tokenizer_name=load_tokenizer_name()
 
 
-checkpoint=""
+checkpoint="distilbert-cased-finetuned-sst2-english"
 
 ## load the model:
 tokenizer=load_tokenizer(checkpoint=checkpoint)
