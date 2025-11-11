@@ -1,0 +1,13 @@
+numpy
+pandas 
+matplotlib
+scikit-learn
+torch
+transformers
+fastapi
+flask
+mlflow
+wandb
+pydantic
+kfp
+prefect
